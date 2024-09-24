@@ -1,0 +1,16 @@
+I am the Sphinx of Arkren!
+Only those of uncommon intellect have managed to pass me!
+To pass me, you must play a simple game of wit.
+I am thinking of a five letter word
+You must guess individual letters in the word
+You must input English letters, regardless of case
+If you input anything but, you will lose attempts.
+Examples include: numbers, special characters, foreign letters
+And I will be most displeased at your arrogance
+This is a matter of life and death, after all..your life..
+You have ten attempts. Ten different letters.
+Fail, and I will eat you.
+I have not eaten in a century, so I quite hope your wits fail you
+Don't worry, Jellib, it will be instantaneous and painless
+Are you ready, my young challenger?
+If not, I can simply eat you right now..

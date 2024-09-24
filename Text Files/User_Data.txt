@@ -1,0 +1,7 @@
+GameInProgress:True
+Last Completed Level:2
+Level 1 Score: 
+Level 2 Score: 
+Level 3 Score: 
+Total Score: 
+GameComplete:False 
